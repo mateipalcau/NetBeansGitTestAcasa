@@ -9,5 +9,7 @@ package mcis.jsu.edu;
  * @author mateirares
  */
 public class TestClass {
-    
+    public static String testMethod1() {
+       return "Hello, World!";
+    }
 }
